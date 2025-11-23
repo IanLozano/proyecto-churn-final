@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn==1.6.1
+xgboost
+imbalanced-learn
+joblib
+requests
+
+dash
+dash-core-components
+dash-html-components
+dash-table
+
+plotly

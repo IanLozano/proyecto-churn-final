@@ -1,0 +1,8 @@
+.git
+.mlrun
+mlruns
+reports
+.dvc
+*.ipynb
+__pycache__
+*.log
